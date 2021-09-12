@@ -1,6 +1,6 @@
 # cpp-training
 
-To Do:
+## To Do
 
 * string operations
 * OOP
@@ -12,7 +12,8 @@ To Do:
   - virtual functions
   - pure virtual functions
 
-Content (in sub folders):
+## Content (in sub folders)
+
 - Containers (array, deque, map, stack, vector)
 - Exceptions
 - algorithms library
